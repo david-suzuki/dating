@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.42ef4a80.chunk.css",
+    "main.js": "/static/js/main.bb3c7b4a.chunk.js",
+    "main.js.map": "/static/js/main.bb3c7b4a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f9044392.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f9044392.js.map",
+    "static/js/2.d70ea2ac.chunk.js": "/static/js/2.d70ea2ac.chunk.js",
+    "static/js/2.d70ea2ac.chunk.js.map": "/static/js/2.d70ea2ac.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8b94f886db839d2836e6d071b2e1b061.js": "/precache-manifest.8b94f886db839d2836e6d071b2e1b061.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.42ef4a80.chunk.css.map": "/static/css/main.42ef4a80.chunk.css.map",
+    "static/js/2.d70ea2ac.chunk.js.LICENSE.txt": "/static/js/2.d70ea2ac.chunk.js.LICENSE.txt",
+    "static/js/main.bb3c7b4a.chunk.js.LICENSE.txt": "/static/js/main.bb3c7b4a.chunk.js.LICENSE.txt",
+    "static/media/alpha_advisors_logo.jpg": "/static/media/alpha_advisors_logo.90675602.jpg",
+    "static/media/auth_logo.png": "/static/media/auth_logo.90675602.png",
+    "static/media/bg.jpg": "/static/media/bg.38911726.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9044392.js",
+    "static/js/2.d70ea2ac.chunk.js",
+    "static/css/main.42ef4a80.chunk.css",
+    "static/js/main.bb3c7b4a.chunk.js"
+  ]
+}

@@ -1,0 +1,49 @@
+.btnFacebook { 
+  width: 190px;
+  height:45px;  
+  border-radius: 3px;
+  background: #ffffff;
+  color:#1a1a1a;
+  font-weight: bold;
+  border-style:  none none outset;
+  border-color: transparent transparent lightgrey transparent;   
+  text-align: center;
+  margin-top:10px;
+  display: inline-block;
+}
+.linkedinBtn { 
+  width: 190px;
+  height:45px;
+  border-radius: 3px;
+  background: #ffffff;
+  color:#737373;
+  border-style:  none none outset;
+  border-color: transparent transparent rgba(140, 140, 140, .4) transparent;    
+  text-align: center;
+  margin-top:7px;
+  display: inline-block;
+  cursor: pointer;
+}
+.btnGoogle { 
+  width: 190px;
+  height:45px;
+  border-radius: 4px;
+  background: #db3236;
+  color:white;
+  border:0px transparent;
+  text-align: left;
+  margin-right: 0px !important;
+}
+.btnFacebook:hover {
+  cursor: pointer;
+}
+.btnGoogle:hover {
+  background: #db3236;
+  opacity: 0.6;
+}
+
+@media only screen and (max-width : 399px) {
+  .btnFacebook,.btnGoogle{
+    width: 100%
+  }
+}

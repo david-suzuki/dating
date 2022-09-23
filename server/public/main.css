@@ -1,0 +1,5 @@
+@charset "UTF-8";
+
+.MuiTabs-centered {
+    justify-content: start !important;
+}
